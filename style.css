@@ -4,7 +4,7 @@
     font-family: "Poppins", serif;
 }
 #banner {
-    background: linear-gradient(rgba(0,0,0,0.5), #9D00FF), url(hello.png);
+    background: linear-gradient(rgba(0,0,0,0.5), #9D00FF), url(hello.jfif);
     background-size: cover;
     background-position: center;
     height: 100vh;
